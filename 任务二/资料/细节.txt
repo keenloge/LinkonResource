@@ -1,0 +1,9 @@
+1、SDL控制界面，只有3种颜色（设计上是多种）
+2、SDL控制界面，强制横屏
+3、SDL控制界面，圆圈大小计算时，是以20列来算出圆圈半径
+4、设置行列布局: 列不超过20，行不超过10
+5、最初状态没有行列布局，默认5行10列，顶部没有颜色和按钮，只有一个提示请先关联灯
+6、more按钮参照 LampRemotePage.m
+7、表格参照LampRemoteKeySelectDevicePage
+8、设置行列时，开灯关灯是针对选择的那个灯
+9、textfield和底部button参照SLLoginPage.m
